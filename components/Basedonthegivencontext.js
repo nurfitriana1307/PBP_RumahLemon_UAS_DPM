@@ -8,7 +8,7 @@ const Basedonthegivencontext = () => {
       <Image
         style={[styles.groupChild, styles.groupChildLayout]}
         resizeMode="cover"
-        source={require("../assets/rectangle-44.png")}
+        source={require("../assets/rectangle-441.png")}
       />
       <Text style={styles.maduLebahLiar}>Madu lebah liar 250 gram</Text>
       <View style={[styles.groupItem, styles.groupLayout]} />

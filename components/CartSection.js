@@ -16,7 +16,7 @@ const CartSection = ({ onRectanglePressablePress }) => {
           <Image
             style={styles.groupIcon}
             resizeMode="cover"
-            source={require("../assets/group.png")}
+            source={require("../assets/group5.png")}
           />
           <Pressable
             style={styles.groupInner}

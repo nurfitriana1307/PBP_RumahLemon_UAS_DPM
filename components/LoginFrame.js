@@ -55,7 +55,7 @@ const LoginFrame = ({ onClose }) => {
         <Image
           style={[styles.frameChild, styles.frameChildLayout]}
           resizeMode="cover"
-          source={require("../assets/group-621.png")}
+          source={require("../assets/group-6211.png")}
         />
         <Image
           style={[styles.frameItem, styles.frameChildLayout]}

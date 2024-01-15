@@ -64,12 +64,12 @@ Kapasitas Keuangan: Tunjukkan kapasitas keuangan perusahaan untuk mengelola inve
         <Image
           style={[styles.vectorIcon, styles.vectorIconLayout]}
           resizeMode="cover"
-          source={require("../assets/vector32.png")}
+          source={require("../assets/vector321.png")}
         />
         <Image
           style={[styles.vectorIcon1, styles.vectorIconLayout]}
           resizeMode="cover"
-          source={require("../assets/vector33.png")}
+          source={require("../assets/vector331.png")}
         />
       </View>
 
